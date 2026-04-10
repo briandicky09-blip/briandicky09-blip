@@ -4,7 +4,6 @@ I'm Brian Dicky
 💻 Informatics Student  
 🚀 Interested in Fullstack & Cybersecurity  
 
----
 
 ## 🌐 Connect with me
 <p align="center">
@@ -19,14 +18,16 @@ I'm Brian Dicky
   </a>
 </p>
 
----
+## 🚀 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github" />
+</p>
 
 ## ⚡ About Me
 - 🌱 Currently learning web development & cybersecurity  
 - 🔥 Building projects to improve my skills  
 - 🎯 Goal: Become a professional developer  
 
----
 
 ## 📊 GitHub Stats
 <p align="center">
