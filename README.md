@@ -1,9 +1,8 @@
-# Hi there 👋
-I'm Brian Dicky  
+<h1 align="center">Hi there 👋</h1>
 
-💻 Informatics Student  
-🚀 Interested in Fullstack & Cybersecurity  
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+I'm+Brian+Dicky;Fullstack+Developer+in+Progress;Learning+Cybersecurity;Building+Cool+Projects" />
+</p>
 
 ## 🌐 Connect with me
 <p align="center">
